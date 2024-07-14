@@ -11,181 +11,181 @@
     "name": "Nieun",
     "description": "The second consonant in the Korean alphabet.",
     "image": "../public/img/letterImages/nieun.PNG",
-    "drawingImage": "../public/img/drawingImage/nieun-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/nieun-drawing.PNG"
   },
   {
     "letter": "ㄷ",
     "name": "Digeut",
     "description": "The third consonant in the Korean alphabet.",
     "image": "../public/img/letterImages/digeut.PNG",
-    "drawingImage": "../public/img/drawingImage/digeut-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/digeut-drawing.PNG"
   },
   {
     "letter": "ㄹ",
     "name": "Rieul",
     "description": "The fourth consonant in the Korean alphabet.",
     "image": "../public/img/letterImages/rieul.PNG",
-    "drawingImage": "../public/img/drawingImage/rieul-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/rieul-drawing.PNG"
   },
   {
     "letter": "ㅁ",
     "name": "Mieum",
     "description": "The fifth consonant in the Korean alphabet.",
     "image": "../public/img/letterImages/mieum.PNG",
-    "drawingImage": "../public/img/drawingImage/mieum-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/mieum-drawing.PNG"
   },
   {
     "letter": "ㅂ",
     "name": "Siot",
     "description": "The sixth consonant in the Korean alphabet.",
     "image": "../public/img/letterImages/siot.PNG",
-    "drawingImage": "../public/img/drawingImage/siot-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/siot-drawing.PNG"
   },
   {
     "letter": "ㅇ",
     "name": "Ieung",
     "description": "The second consonant in the Korean alphabet.",
     "image": "../public/img/letterImages/ieung.PNG",
-    "drawingImage": "../public/img/drawingImage/ieung-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/ieung-drawing.PNG"
   },
   {
     "letter": "ㅈ",
     "name": "Jieut",
     "description": "The second consonant in the Korean alphabet.",
     "image": "../public/img/letterImages/jieut.PNG",
-    "drawingImage": "../public/img/drawingImage/jieut-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/jieut-drawing.PNG"
   },
   {
     "letter": "ㅊ",
     "name": "Chieut",
     "description": "The second consonant in the Korean alphabet.",
     "image": "../public/img/letterImages/chieut.PNG",
-    "drawingImage": "../public/img/drawingImage/chieut-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/chieut-drawing.PNG"
   },
   {
     "letter": "ㅋ",
     "name": "Kieuk",
     "description": "The second consonant in the Korean alphabet.",
     "image": "../public/img/letterImages/kieuk.PNG",
-    "drawingImage": "../public/img/drawingImage/kieuk-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/kieuk-drawing.PNG"
   },
   {
     "letter": "ㅌ",
     "name": "Tieut",
     "description": "The second consonant in the Korean alphabet.",
     "image": "../public/img/letterImages/tieut.PNG",
-    "drawingImage": "../public/img/drawingImage/tieut-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/tieut-drawing.PNG"
   },
   {
     "letter": "ㅍ",
     "name": "Pieup",
     "description": "The second consonant in the Korean alphabet.",
     "image": "../public/img/letterImages/pieup.PNG",
-    "drawingImage": "../public/img/drawingImage/pieup-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/pieup-drawing.PNG"
   },
   {
     "letter": "ㅎ",
     "name": "Hieut",
     "description": "The second consonant in the Korean alphabet.",
     "image": "../public/img/letterImages/hieut.PNG",
-    "drawingImage": "../public/img/drawingImage/hieut-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/hieut-drawing.PNG"
   },
   {
     "letter": "ㅏ",
     "name": "A",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/a.PNG",
-    "drawingImage": "../public/img/drawingImage/a-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/a-drawing.PNG"
   },
   {
     "letter": "ㅑ",
     "name": "Ya",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/ya.PNG",
-    "drawingImage": "../public/img/drawingImage/ya-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/ya-drawing.PNG"
   },
   {
     "letter": "ㅓ",
     "name": "Eo",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/eo.PNG",
-    "drawingImage": "../public/img/drawingImage/eo-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/eo-drawing.PNG"
   },
   {
     "letter": "ㅕ",
     "name": "Yeo",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/yeo.PNG",
-    "drawingImage": "../public/img/drawingImage/yeo-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/yeo-drawing.PNG"
   },
   {
     "letter": "ㅗ",
     "name": "O",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/o.PNG",
-    "drawingImage": "../public/img/drawingImage/o-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/o-drawing.PNG"
   },
   {
     "letter": "ㅛ",
     "name": "Yo",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/yo.PNG",
-    "drawingImage": "../public/img/drawingImage/yo-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/yo-drawing.PNG"
   },
   {
     "letter": "ㅜ",
     "name": "U",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/u.PNG",
-    "drawingImage": "../public/img/drawingImage/u-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/u-drawing.PNG"
   },
   {
     "letter": "ㅠ",
     "name": "Yu",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/yu.PNG",
-    "drawingImage": "../public/img/drawingImage/yu-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/yu-drawing.PNG"
   },
   {
     "letter": "ㅡ",
     "name": "Eu",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/eu.PNG",
-    "drawingImage": "../public/img/drawingImage/eu-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/eu-drawing.PNG"
   },
   {
     "letter": "ㅣ",
     "name": "I",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/i.PNG",
-    "drawingImage": "../public/img/drawingImage/i-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/i-drawing.PNG"
   },
   {
     "letter": "ㅐ",
     "name": "Ae",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/ae.PNG",
-    "drawingImage": "../public/img/drawingImage/ae-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/ae-drawing.PNG"
   },
   {
     "letter": "ㅒ",
     "name": "Yae",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/yae.PNG",
-    "drawingImage": "../public/img/drawingImage/yae-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/yae-drawing.PNG"
   },
   {
     "letter": "ㅔ",
     "name": "E",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/e.PNG",
-    "drawingImage": "../public/img/drawingImage/e-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/e-drawing.PNG"
   },
   {
     "letter": "ㅖ",
     "name": "Ye",
     "description": "The first vowel in the Korean alphabet.",
     "image": "../public/img/letterImages/ye.PNG",
-    "drawingImage": "../public/img/drawingImage/ye-drawing.PNG"
+    "drawingImage": "../public/img/drawingImages/ye-drawing.PNG"
   }
 ]
