@@ -4,7 +4,7 @@
         <h1>Welcome to the Korean Alphabet Learning Site</h1>
         <h2>Hangul development history</h2>
         <p class="fact"><b>Fact:</b> Hangul is actually one of the youngest alphabets in the world.</p>
-        <p>The origin of the Korian script Hangul, begins in the 15th century. Its history is closely linked to
+        <p>The origin of the Korean script Hangul begins in the 15th century. Its history is closely linked to
             King Sejong (1418-1450) the Great of the Joseon Dynasty. Before the introduction of Hangul,
             Koreans used the Chinese writing system called 'Hanja'. The Koreans did not yet have their own
             script at this time.
@@ -18,7 +18,7 @@
             known as 'Eonmun'. In October 9, 1446, a document called ''Hunminjeong'eum'' (translated: The
             Right Tones for the Education of the People) was published, in which his plan to publish the new
             Korean script was made public. The new Korean alphabet was published and used directly.
-            On October 9th it is Hangul Day and it is nowdays a public holiday in South Korea. (North Korea
+            On October 9th it is Hangul Day and it is nowadays a public holiday in South Korea. (North Korea
             also uses Hangul, but they call it ''Chosŏn'gŭl'').
             The history of Hangul has had a lot of back and forth. This was partly due to status differences
             (poor vs. rich people), powers (King Yeonsangun) and general history (occupation by Japan).
@@ -38,10 +38,12 @@
             <li>There is a cultural reference to the language</li>
             <li>International acceptance and recognition of Hangul - also North Korea uses this font</li>
         </ul>
-        <video controls>
-            <source src="/public/video/Hangul_Video.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
+        <div class="video-container">
+            <video controls>
+                <source src="/public/video/Hangul_Video.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
         <div class="alphabet">
             <div v-for="letter in letters" :key="letter.letter" @click="goToLetter(letter)">
                 <img :src="letter.image" :alt="letter.name">
@@ -50,7 +52,6 @@
         </div>
     </div>
 </template>
-
 
 <script>
 import lettersData from '../letters.json'
@@ -86,10 +87,20 @@ export default {
     height: 100px;
     padding: 0.5em;
     border: 2px solid black;
-
 }
 
-/* Add styles as needed */
+.video-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+video {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+}
+
 .letters-container {
     display: flex;
     flex-wrap: wrap;
