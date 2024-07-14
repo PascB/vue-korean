@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div id="app">
         <Navbar />
         <h1>Welcome to the Korean Alphabet Learning Site</h1>
         <h2>Hangul development history</h2>
@@ -27,7 +27,6 @@
             Hangul was not used in official documents until many years later, in 1994.
             Hangul consists of 14 consonants and 10 vowels, which are combined into syllable blocks to form
             words.</p>
-        <p>
         <ul>
             <li>Each letter is arranged in a square block, which represents a syllable. A block can consist of a
                 consonant, a vowel and an optional final consonant.</li>
@@ -39,7 +38,6 @@
             <li>There is a cultural reference to the language</li>
             <li>International acceptance and recognition of Hangul - also North Korea uses this font</li>
         </ul>
-        </p>
         <video controls>
             <source src="/public/video/Hangul_Video.mp4" type="video/mp4">
             Your browser does not support the video tag.
@@ -52,6 +50,7 @@
         </div>
     </div>
 </template>
+
 
 <script>
 import lettersData from '../letters.json'
@@ -83,8 +82,11 @@ export default {
 }
 
 .alphabet img {
-    width: 50px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
+    padding: 0.5em;
+    border: 2px solid black;
+
 }
 
 /* Add styles as needed */
